@@ -1,4 +1,4 @@
-SELECT * FROM ds_jobs;
+SELECT * FROM ds_jobs;    (https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data  link to the dataset)
 
 -- QUERY 1 - Comparing average salary (EURO) in remote full-time Data Science jobs by experience level : Entry-level, Mid-level, Senior 
 
